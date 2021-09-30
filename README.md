@@ -1,3 +1,7 @@
 # Calculadora-de-dose-de-anest-sico
 
-Como a linguagem C de programacao foi desenvolvida nos EUA, ela nao lida bem com acentuacao grafica, por isso este programa foi escrito sem o uso de acentos. Como exemplo de como a linguagem buga com acentos, a frase 'opcao invalida de anestesico' apareceria assim: opção inválida de anestésico. Alem disso, nos EUA utiliza-se ponto '.' no lugar de virgula ',' para expressar casas decimais em numeros. Portanto, utilize ponto senao o programa buga.\n\n");
+O programa foi desenvolvido com o intuito de ajudar graduandos do curso de Odontologia a calcularem a dose máxima de anestésico a ser aplicada em um paciente, tendo como base o 
+peso do mesmo. Para tal, foi utilizada a linguagem C padrão. Gentileza se atentar às instruções contidas no início do programa.
+
+Autor: Caio Fernades
+Data: 30/09/2021
